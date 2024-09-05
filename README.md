@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+🌱 I’m currently learning Data Analytics and Machine Learning at WGU! I aim to graduate Winter 2024, then start my next graduate program with a focus on Artificial Intelligence. 
+
+👯 I’m looking to collaborate on non-profit ventures and projects! 
+
+📫 How to reach me: gab.masak@gmail.com
+
+
 <!--
 **GabyMasak/GabyMasak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
