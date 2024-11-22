@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Data Analytics and Machine Learning at WGU! I aim to graduate Winter 2024, then start my next graduate program with a focus on Artificial Intelligence. 
 
-🔭 I’m currently looking for internships in Data Science, software development, or reservoir simulation. 
+🔭 I’m currently looking for a remote position in Data Science/Machine Learning/Artificial Intelligence, Software Development, and/or Reservoir Simulation. 
 
 👯 I’m looking to collaborate on non-profit ventures and projects! 
 
