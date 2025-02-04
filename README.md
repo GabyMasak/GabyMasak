@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-🌱 I’m currently pursuing a MS in Computer Science at Georgia Tech! I aim to graduate Winter 2026.
+🌱 I just graduated!
 
-🔭 I’m currently an Advanced Analytics intern.
+🔭 I'm currently a volunteer!
 
 👯 I’m looking to collaborate on non-profit ventures and projects! 
 
