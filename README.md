@@ -6,7 +6,7 @@
 
 👯 I’m looking to collaborate on non-profit ventures and projects! 
 
-📫 How to reach me: gab.masak@gmail.com
+📫 How to reach me: P Sherman Wallaby Way!
 
 
 <!--
