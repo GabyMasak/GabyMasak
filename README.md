@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 I just graduated!
+🌱 I'm relavtively green!
 
 🔭 I'm currently a volunteer!
 
