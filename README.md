@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 I'm relavtively green!
+🌱 I'm relatively green!
 
 🔭 I'm currently a volunteer!
 
